@@ -1,6 +1,6 @@
 # modern startbootstrap business
 
-This is the most recent version of the app for mark system.
+This is the most recent version of start bootstrap.
 
 ## Development Stack
 Bootstrap
